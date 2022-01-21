@@ -11,7 +11,7 @@
 	<artifactId>customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A customer service application</description>
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
